@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-doList</title>
+    <link rel="stylesheet" href="style.css">
+    <script async src="script.js"></script>
+</head>
+<body>
+    <p>To-Do-List</p>
+    <section>
+        <div class="sec-1">
+            <input id='in-1' placeholder="Item Name">
+            <input id="in-2" placeholder="Deadline" onfocus="(this.type='date')">
+            <select id="in-3" placeholder="Priority" >
+                <option value="Priority" selected>Priority</option>
+                <option value="High">High priority</option>
+                <option value="Medium">Medium priority</option>
+                <option value="Low">Low priority</option>
+            </select>
+            <button id="addItems" >Add Item</button>
+        </div>
+    </section>
+    <section>
+        <p id="today-p">Today's TodoList</p>
+        <div id="sec-2">
+
+        </div>
+    </section>
+    <section>
+        <p id="future-p">Future TodoList</p>
+        <div id="sec-3">
+           
+        </div>
+    </section>
+    <section>
+        <p id="completed-p">Completed TodoList</p>
+        <div id="sec-4">
+            
+        </div>
+    </section>
+</body>
+</html>

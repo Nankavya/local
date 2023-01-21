@@ -1,0 +1,119 @@
+p{
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.sec-1{
+    margin-left: 3%;
+}
+#in-1{
+    height: 40px;
+    width: 350px;
+    left: 37px;
+    top: 129px;
+    border-radius: 0px;
+    border: 2px solid #000000
+}
+#in-2{
+    height: 40px;
+    width: 350px;
+    left: 37px;
+    top: 129px;
+    border-radius: 0px;
+    border: 2px solid #000000
+}
+#in-3{
+    height: 46.1px;
+    width: 350px;
+    left: 37px;
+    top: 129px;
+    border-radius: 0px;
+    border: 2px solid #000000
+}
+#addItems{
+    height: 44px;
+    width: 200px;
+    left: 1449px;
+    top: 129px;
+    border-radius: 0px;
+    border: 2px solid #000000;
+    background-color: black;
+    color: white;
+}
+::placeholder{
+    color: black;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+#today-p{
+    height: 35px;
+    width: 621px;
+    left: 37px;
+    top: 240px;
+    border-radius: nullpx;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 3%;
+
+}
+#Dom-input{
+    
+    height: 50px;
+    width: 1278px;
+    left: 44px;
+    top: 314px;
+    border-radius: 10px;
+    background: #000000;
+    color: white;
+    margin-left: 3%;
+    margin-right: 3%;
+} 
+#future-p{
+    height: 35px;
+    width: 621px;
+    left: 37px;
+    top: 240px;
+    border-radius: nullpx;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 3%;
+} 
+#completed-p{
+    height: 35px;
+    width: 621px;
+    left: 37px;
+    top: 240px;
+    border-radius: nullpx;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 3%;
+} 
+
+#checkbox-1{
+    left: 19%;
+    width: 174%;
+    border-radius: 0px;
+    border: 2px solid #FFFFFF;
+    
+    /* border-spacing: 10rem;    */
+}
